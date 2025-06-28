@@ -1,0 +1,79 @@
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.exe
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.deps.json
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.runtimeconfig.json
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.pdb
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.Form1.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.Resources.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.GenerateResource.cache
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AssemblyInfoInputs.cache
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AssemblyInfo.vb
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.CoreCompileInputs.cache
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\refint\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.pdb
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.genruntimeconfig.cache
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\ref\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.BeritaForm.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.ForumForm.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.KonsultasiForm.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AboutForm.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.KasusBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.HakKorban.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.CegahBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.LihatBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.Contact.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.DampakBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.FormLogin.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.formSignUp.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AdminLogin.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.PengertianBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.JenisBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AlamiBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.coba.resources
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.AssemblyReference.cache
+C:\Users\arg\source\repos\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.Up2Date
+C:\Users\arg\Downloads\PALUHANGKU\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.AssemblyReference.cache
+C:\Users\arg\Downloads\PALUHANGKU\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.dll
+C:\Users\arg\Downloads\PALUHANGKU\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\refint\PALUHANGKU.dll
+C:\Users\arg\Downloads\PALUHANGKU\PALUHANGKU\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.pdb
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.exe
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.deps.json
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.runtimeconfig.json
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\PALUHANGKU.pdb
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\bin\Debug\net8.0-windows\MySqlConnector.dll
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.AssemblyReference.cache
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AboutForm.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AdminLogin.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AlamiBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.KasusBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.BeritaForm.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.CegahBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.DampakBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.ForumForm.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.HakKorban.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.Form1.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.JenisBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.Contact.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.LihatBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.FormLogIn.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.Resources.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.PengertianBullying.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.KonsultasiForm.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.formSignUp.resources
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.GenerateResource.cache
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AssemblyInfoInputs.cache
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.AssemblyInfo.vb
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.CoreCompileInputs.cache
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.vbproj.Up2Date
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\refint\PALUHANGKU.dll
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.pdb
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\PALUHANGKU.genruntimeconfig.cache
+C:\Users\arg\source\repos\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU INSYA ALLAH FINAL\PALUHANGKU\obj\Debug\net8.0-windows\ref\PALUHANGKU.dll

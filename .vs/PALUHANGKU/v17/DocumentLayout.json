@@ -1,0 +1,690 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\sign up.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\sign up.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\sign up.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\sign up.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\beritapenanganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\beritapenanganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\rekomendasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\rekomendasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\halaman depan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\halaman depan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\alamibullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\alamibullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\pengertianbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\pengertianbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\lihatbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\lihatbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\kontaklapor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\kontaklapor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\jenisbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\jenisbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\hak korban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\hak korban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\dampak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\dampak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\cegah bullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\cegah bullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\beritakasus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\beritakasus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\forum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\forum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\halaman depan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\halaman depan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\beritapenanganan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\beritapenanganan.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\jenisbullying.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\jenisbullying.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\beritapenanganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\beritapenanganan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\beritakasus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\beritakasus.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\rekomendasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\rekomendasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\about.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\lihatbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\lihatbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\paluhangku.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\paluhangku.vbproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\pengertianbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\pengertianbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\kontaklapor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\kontaklapor.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\jenisbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\jenisbullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\hak korban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\hak korban.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\forum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\forum.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\dampak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\dampak.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\cegah bullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\cegah bullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\alamibullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\alamibullying.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|c:\\users\\arg\\source\\repos\\paluhangku insya allah final\\paluhangku insya allah final\\paluhangku\\adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:paluhangku\\adminlogin.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:PALUHANGKU\\Halaman depan.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:PALUHANGKU\\About.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{80B28702-5A5C-4007-92DC-A4D7A4A2184B}|PALUHANGKU\\PALUHANGKU.vbproj|solutionrelative:PALUHANGKU\\DAMPAK.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 202,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "REKOMENDASI.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\REKOMENDASI.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\REKOMENDASI.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\REKOMENDASI.vb",
+              "RelativeToolTip": "PALUHANGKU\\REKOMENDASI.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:15:02.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "REKOMENDASI.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\REKOMENDASI.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\REKOMENDASI.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\REKOMENDASI.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\REKOMENDASI.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T16:43:52.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BERITAKASUS.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAKASUS.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\BERITAKASUS.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAKASUS.vb",
+              "RelativeToolTip": "PALUHANGKU\\BERITAKASUS.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T17:24:09.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BERITAKASUS.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAKASUS.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\BERITAKASUS.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAKASUS.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\BERITAKASUS.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T16:34:33.903Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BERITAPENANGANAN.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAPENANGANAN.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\BERITAPENANGANAN.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAPENANGANAN.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\BERITAPENANGANAN.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T16:39:28.997Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BERITAPENANGANAN.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAPENANGANAN.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\BERITAPENANGANAN.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAPENANGANAN.vb",
+              "RelativeToolTip": "PALUHANGKU\\BERITAPENANGANAN.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-04T14:59:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "About.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\About.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\About.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T16:45:24.304Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "About.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\About.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.vb",
+              "RelativeToolTip": "PALUHANGKU\\About.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T09:57:01.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminLogin.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AdminLogin.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\AdminLogin.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AdminLogin.vb",
+              "RelativeToolTip": "PALUHANGKU\\AdminLogin.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T04:13:48.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LIHATBULLYING.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LIHATBULLYING.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\LIHATBULLYING.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LIHATBULLYING.vb",
+              "RelativeToolTip": "PALUHANGKU\\LIHATBULLYING.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:33:53.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JenisBullying.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\JenisBullying.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\JenisBullying.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\JenisBullying.vb",
+              "RelativeToolTip": "PALUHANGKU\\JenisBullying.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-04T15:36:10.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SIGN UP.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\SIGN UP.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\SIGN UP.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\SIGN UP.vb",
+              "RelativeToolTip": "PALUHANGKU\\SIGN UP.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T09:34:19.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "LIHATBULLYING.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LIHATBULLYING.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\LIHATBULLYING.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LIHATBULLYING.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\LIHATBULLYING.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T16:28:16.384Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KONTAKLAPOR.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\KONTAKLAPOR.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\KONTAKLAPOR.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\KONTAKLAPOR.vb",
+              "RelativeToolTip": "PALUHANGKU\\KONTAKLAPOR.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-29T05:29:02.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PengertianBullying.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PengertianBullying.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\PengertianBullying.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PengertianBullying.vb",
+              "RelativeToolTip": "PALUHANGKU\\PengertianBullying.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-26T03:13:10.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "PALUHANGKU.vbproj",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PALUHANGKU.vbproj",
+              "RelativeDocumentMoniker": "PALUHANGKU\\PALUHANGKU.vbproj",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PALUHANGKU.vbproj",
+              "RelativeToolTip": "PALUHANGKU\\PALUHANGKU.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-06-22T10:14:29.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HAK KORBAN.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\HAK KORBAN.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\HAK KORBAN.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\HAK KORBAN.vb",
+              "RelativeToolTip": "PALUHANGKU\\HAK KORBAN.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-04T16:10:21.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FORUM.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\FORUM.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\FORUM.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\FORUM.vb",
+              "RelativeToolTip": "PALUHANGKU\\FORUM.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:36:57.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DAMPAK.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\DAMPAK.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.vb",
+              "RelativeToolTip": "PALUHANGKU\\DAMPAK.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:29:12.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CEGAH BULLYING.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\CEGAH BULLYING.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\CEGAH BULLYING.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\CEGAH BULLYING.vb",
+              "RelativeToolTip": "PALUHANGKU\\CEGAH BULLYING.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T14:32:04.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlamiBullying.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AlamiBullying.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\AlamiBullying.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AlamiBullying.vb",
+              "RelativeToolTip": "PALUHANGKU\\AlamiBullying.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-04T16:16:56.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PengertianBullying.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PengertianBullying.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\PengertianBullying.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PengertianBullying.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\PengertianBullying.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T10:51:33.582Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LOGIN.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LOGIN.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\LOGIN.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LOGIN.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\LOGIN.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T17:28:17.029Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "KONTAKLAPOR.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\KONTAKLAPOR.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\KONTAKLAPOR.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\KONTAKLAPOR.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\KONTAKLAPOR.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T16:30:17.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "JenisBullying.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\JenisBullying.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\JenisBullying.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\JenisBullying.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\JenisBullying.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T16:19:34.876Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HAK KORBAN.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\HAK KORBAN.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\HAK KORBAN.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\HAK KORBAN.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\HAK KORBAN.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T16:25:39.41Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "FORUM.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\FORUM.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\FORUM.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\FORUM.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\FORUM.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-03-30T16:43:45.911Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "DAMPAK.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\DAMPAK.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\DAMPAK.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T16:24:39.365Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "CEGAH BULLYING.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\CEGAH BULLYING.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\CEGAH BULLYING.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\CEGAH BULLYING.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\CEGAH BULLYING.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T16:25:45.665Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LOGIN.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LOGIN.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\LOGIN.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\LOGIN.vb",
+              "RelativeToolTip": "PALUHANGKU\\LOGIN.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T17:31:33.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AlamiBullying.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AlamiBullying.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\AlamiBullying.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AlamiBullying.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\AlamiBullying.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T16:38:40.425Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Halaman depan.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\Halaman depan.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\Halaman depan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-02T04:51:19.683Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JenisBullying.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\JenisBullying.Designer.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\JenisBullying.Designer.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\JenisBullying.Designer.vb",
+              "RelativeToolTip": "PALUHANGKU\\JenisBullying.Designer.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-23T02:35:19.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AdminLogin.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AdminLogin.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\AdminLogin.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\AdminLogin.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\AdminLogin.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-25T09:09:55.019Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BERITAPENANGANAN.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAPENANGANAN.Designer.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\BERITAPENANGANAN.Designer.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\BERITAPENANGANAN.Designer.vb",
+              "RelativeToolTip": "PALUHANGKU\\BERITAPENANGANAN.Designer.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-23T06:18:51.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Halaman depan.Designer.vb",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.Designer.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\Halaman depan.Designer.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.Designer.vb",
+              "RelativeToolTip": "PALUHANGKU\\Halaman depan.Designer.vb",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-23T02:32:15.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Halaman depan.resx",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.resx",
+              "RelativeDocumentMoniker": "PALUHANGKU\\Halaman depan.resx",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\Halaman depan.resx",
+              "RelativeToolTip": "PALUHANGKU\\Halaman depan.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-23T16:36:38.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "About.resx",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.resx",
+              "RelativeDocumentMoniker": "PALUHANGKU\\About.resx",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\About.resx",
+              "RelativeToolTip": "PALUHANGKU\\About.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-23T16:51:55.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Preview\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-23T16:16:13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "DAMPAK.resx",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.resx",
+              "RelativeDocumentMoniker": "PALUHANGKU\\DAMPAK.resx",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\DAMPAK.resx",
+              "RelativeToolTip": "PALUHANGKU\\DAMPAK.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-23T16:40:01.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-05-08T05:06:42.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SIGN UP.vb [Design]",
+              "DocumentMoniker": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\SIGN UP.vb",
+              "RelativeDocumentMoniker": "PALUHANGKU\\SIGN UP.vb",
+              "ToolTip": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\SIGN UP.vb [Design]",
+              "RelativeToolTip": "PALUHANGKU\\SIGN UP.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-04-01T17:28:34.279Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

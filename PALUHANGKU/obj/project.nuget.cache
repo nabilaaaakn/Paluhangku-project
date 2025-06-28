@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CG9YgLLuRaE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\arg\\source\\repos\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU INSYA ALLAH FINAL\\PALUHANGKU\\PALUHANGKU.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arg\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512",
+    "C:\\Users\\arg\\.nuget\\packages\\mysqlconnector\\2.3.7\\mysqlconnector.2.3.7.nupkg.sha512"
+  ],
+  "logs": []
+}
